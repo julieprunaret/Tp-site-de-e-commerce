@@ -6,7 +6,7 @@ Mise en pratique du module PHP procédural.
 
 Pour voir les projets vous pouvez importer la base de données comprise dans ce repository.
 
-Il était demander de créer une base de donnée, de pouvoir y ajouter des produits et de les réserver.
+Il était demandé de créer une base de donnée, de pouvoir y ajouter des produits et de les réserver.
 
 ## 🛠 Notions appréhendées
 
